@@ -14,6 +14,6 @@
 <a target="_blank" rel="noopener noreferrer nofollow" href="https://camo.githubusercontent.com/5eb9a99c0bc347f5e4905719bb868427222d932925b61d9ea2b4c6f757b7fc6a/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d50686f746f73686f702d3035313232413f7374796c653d666c6174266c6f676f3d61646f62652d70686f746f73686f70"><img src="https://camo.githubusercontent.com/5eb9a99c0bc347f5e4905719bb868427222d932925b61d9ea2b4c6f757b7fc6a/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d50686f746f73686f702d3035313232413f7374796c653d666c6174266c6f676f3d61646f62652d70686f746f73686f70" alt="Photoshop" data-canonical-src="https://img.shields.io/badge/-Photoshop-05122A?style=flat&amp;logo=adobe-photoshop" style="max-width: 100%;"></a>
 <center>
   <a href="https://github.com/dmitryhtsnk">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=NickStS&show_icons=true&theme=dark&show_icons=true&include_all_commits=true&count_private=true"/><img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=NickStS&theme=dark&layout=compact&langs_count=8&hide=php"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=dmitryhtsnk&show_icons=true&theme=dark&show_icons=true&include_all_commits=true&count_private=true"/><img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=NickStS&theme=dark&layout=compact&langs_count=8&hide=php"/>
 </a>
 </center>
