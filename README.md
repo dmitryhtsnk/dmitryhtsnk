@@ -20,5 +20,4 @@
 ## 🤝🏻 &nbsp;Links
 <a href="https://www.linkedin.com/in/%D0%B4%D0%BC%D0%B8%D1%82%D1%80%D0%BE-%D0%B3%D1%80%D0%B8%D1%86%D0%B0%D0%BD%D1%8E%D0%BA-139a5725b"><img src="https://img.shields.io/badge/-Dima%20Hrutsaniuk-0077B5?style=flat&logo=Linkedin&logoColor=white"/></a>
 <a href="https://www.instagram.com/drhtsnk/"><img src="https://img.shields.io/badge/-@drhtsnk-0f0f0f?style=flat&logo=Instagram"/></a>
-
-
+[![Telegram](https://img.shields.io/badge/Telegram-%40your_username-blue)](https://t.me/drhtsnk)
