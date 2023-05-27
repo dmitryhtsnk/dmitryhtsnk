@@ -1,7 +1,7 @@
 ### 👋 Hi there! I'm Dima
 
 ## 👨🏻‍💻 About me
-<p>🎓 I'm studing programming in Kyiv </p>
+<p>🎓 I'm studying programming in Kyiv </p>
 <p>💻 Like to learn new technologies</p>
 <p>🏋️ My hobbie is doing sport</p>
 
